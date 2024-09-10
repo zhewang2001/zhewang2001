@@ -22,7 +22,7 @@
 ### Glad to see you here!  
 I’m currently a first year MS (Master of Science in Computer Science) student from Siebel School of Computing and Data Science, University of Illinois Urbana-Champaign. I am advised by [Prof. Lingming Zhang](https://lingming.cs.illinois.edu).
 
-You can find more information about me on my [personal website](https://zhewang2001.github.io)    
+You can find more information about me on my [personal website](https://zhewang2001.github.io).    
   
 
 <br/>  
