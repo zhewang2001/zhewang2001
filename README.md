@@ -1,21 +1,21 @@
 ## Hey 👋, I'm Zhe Wang!  
   
-🚀### Glad to see you here!  
+### 🚀Glad to see you here!  
 I’m currently a first year MS (Master of Science in Computer Science) student from Siebel School of Computing and Data Science, University of Illinois Urbana-Champaign. I am advised by [Prof. Lingming Zhang](https://lingming.cs.illinois.edu).
 
 You can find more information about me on my [personal website](https://zhewang2001.github.io).    
 
-💻## Research Interests  
+## 💻Research Interests  
 <div>
 
--  📘**Transfer Learning**: to have a more fundamental understanding of the behavior of large language models (LLMs), enabling their effective adaptation to knowledge-intensive and everyday scenarios.  
+-  **Transfer Learning**: to have a more fundamental understanding of the behavior of large language models (LLMs), enabling their effective adaptation to knowledge-intensive and everyday scenarios.  
   
 
--  🤖**AI for Code**: to build and evaluate AI programmers to propel developer efficiency and improve software quality.  
+-  **AI for Code**: to build and evaluate AI programmers to propel developer efficiency and improve software quality.  
 
 </div>
 
-📝## Github Stats  
+## 📝Github Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=zhewang2001&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
