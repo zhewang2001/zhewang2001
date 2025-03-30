@@ -1,17 +1,20 @@
 ## Hey 👋, I'm Zhe Wang!  
   
 ### 🚀Glad to see you here!  
-I’m currently a first year MS (Master of Science in Computer Science) student from Siebel School of Computing and Data Science, University of Illinois Urbana-Champaign. I am advised by [Prof. Lingming Zhang](https://lingming.cs.illinois.edu).
+I'm currently a first year MS (Master of Science in Computer Science) student from Siebel School of Computing and Data Science, University of Illinois Urbana-Champaign. I am advised by [Prof. Lingming Zhang](https://lingming.cs.illinois.edu).
 
 You can find more information about me on my [personal website](https://zhewang2001.github.io).    
 
 ## 💻Research Interests  
 <div>
 
--  **Transfer Learning**: to have a more fundamental understanding of the behavior of large language models (LLMs), enabling their effective adaptation to knowledge-intensive and everyday scenarios.  
+-  **LLMs for Code**: to develop LLMs to solve software engineering tasks through post-training via synthetic data
   
 
--  **AI for Code**: to build and evaluate AI programmers to propel developer efficiency and improve software quality.  
+-  **Trustworthy LLMs**: to enhance trustworthiness, resilience and reliability of helpful-only LLMs against vulnerable code and malicious cyberactivity attacks
+  
+
+-  **LLM Applications**: to empower LLMs with reasoning, planning and collaboration capabilities through alignment training and agent-based systems
 
 </div>
 
