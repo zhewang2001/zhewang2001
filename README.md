@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=200&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Zhe+Wang;MS+Student+@+UIUC;Researcher+in+AIxSE" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&pause=1000&color=2A91BE&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I+am+Zhe+Wang.;MS+Student+%40+UIUC+%F0%9F%8C%BD;Research+Interest+in+AI+x+SE+%F0%9F%A4%96" alt="Typing SVG" /></a>
 </h1>
 
 ### 🚀Glad to see you here!  
