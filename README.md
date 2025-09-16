@@ -1,7 +1,9 @@
-## Hey 👋, I'm Zhe Wang!  
-  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=200&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Zhe+Wang;MS+Student+@+UIUC;Researcher+in+AIxSE" alt="Typing SVG" />
+</h1>
+
 ### 🚀Glad to see you here!  
-I'm currently a first year MS (Master of Science in Computer Science) student from Siebel School of Computing and Data Science, University of Illinois Urbana-Champaign. I am advised by [Prof. Lingming Zhang](https://lingming.cs.illinois.edu).
+I'm currently a second year MS (Master of Science in Computer Science) student from Siebel School of Computing and Data Science, University of Illinois Urbana-Champaign. I am advised by [Prof. Lingming Zhang](https://lingming.cs.illinois.edu).
 
 You can find more information about me on my [personal website](https://zhewang2001.github.io).    
 
@@ -55,3 +57,6 @@ You can find more information about me on my [personal website](https://zhewang2
 
 
 <br />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
