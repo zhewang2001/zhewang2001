@@ -10,13 +10,13 @@ You can find more information about me on my [personal website](https://zhewang2
 ## 💻Research Interests  
 <div>
 
--  **LLMs for Code**: to develop LLMs to solve software engineering tasks through post-training via synthetic data
+-  **LLMs for Code**: to develop LLMs for code through post-training via reasoning and data-centric alignment
   
 
--  **Trustworthy LLMs**: to enhance trustworthiness, resilience and reliability of helpful-only LLMs against vulnerable code and malicious cyberactivity attacks
+-  **AI for Cybersecurity**: to enhance the trustworthiness, reliability and security of software systems against cyberactivity attacks
   
 
--  **LLM Applications**: to empower LLMs with reasoning, planning and collaboration capabilities through alignment training and agent-based systems
+-  **Agents for Software Engineering**: to empower LLM agents with the capability of reasoing, collaborating and self-evolving for real-world software engineering tasks
 
 </div>
 
