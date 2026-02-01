@@ -13,23 +13,13 @@ You can find more information about me on my [personal website](https://zhewang2
 -  **LLMs for Code**: to develop LLMs for code through post-training via reasoning and data-centric alignment
   
 
--  **AI for Cybersecurity**: to enhance the trustworthiness, reliability and security of software systems against cyberactivity attacks
+-  **AI Cybersecurity**: to enhance the trustworthiness, reliability and security of software systems against cyberactivity attacks
   
 
 -  **Agents for Software Engineering**: to empower LLM agents with the capability of reasoing, collaborating and self-evolving for real-world software engineering tasks
 
 </div>
 
-## 📝Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=zhewang2001&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhewang2001&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
 
 <br/>  
 
