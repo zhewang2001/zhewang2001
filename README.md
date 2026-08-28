@@ -1,9 +1,9 @@
-<h1 align="center">
+<!-- <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&pause=1000&color=2A91BE&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I+am+Zhe+Wang.;MS+Student+%40+UIUC+%F0%9F%8C%BD;Research+Interest+in+AI+x+SE+%F0%9F%A4%96" alt="Typing SVG" /></a>
-</h1>
+</h1> -->
 
 ## 🚀Glad to see you here!  
-I'm currently a second year MS (Master of Science in Computer Science) student from Siebel School of Computing and Data Science, University of Illinois Urbana-Champaign. I am advised by [Prof. Lingming Zhang](https://lingming.cs.illinois.edu).
+I'm currently a first year Ph.D. student from Siebel School of Computing and Data Science, University of Illinois Urbana-Champaign. I am advised by [Prof. Lingming Zhang](https://lingming.cs.illinois.edu).
 
 You can find more information about me on my [personal website](https://zhewang2001.github.io).    
 
